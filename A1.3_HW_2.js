@@ -32,9 +32,9 @@ let Price1 = 5.99
 let Price2 = 9.99
 let Price3 = 12.99
 
-console.log ("The Price of frist item is ",Price1)
-console.log ("The Price of second item is ",Price1)
-console.log ("The Price of third item is ",Price1)
+console.log ("The Price of frist item is $ ",Price1)
+console.log ("The Price of second item is $ ",Price1)
+console.log ("The Price of third item is $ ",Price1)
 
 
 
